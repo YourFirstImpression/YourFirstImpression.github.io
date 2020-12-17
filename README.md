@@ -1,2 +1,2 @@
-# yourtimpression.github.io
+# yourimpression.github.io
 Write your first Impression of Someone
